@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albertoguindasevilla/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://albertoguindaportfolio.vercel.app)
-[![DevFlow AI](https://img.shields.io/badge/DevFlow_AI-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devflowai.vercel.app)
+[![DevFlow AI](https://img.shields.io/badge/DevFlow_AI-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devflowai.dev)
 [![Location](https://img.shields.io/badge/Zaragoza,_Spain-grey?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
