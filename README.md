@@ -74,7 +74,6 @@
 | **[Portfolio + AI terminal](https://albertoguindaportfolio.vercel.app)** | This site — RAG assistant (Claude) that answers as me, i18n ES/EN, WCAG AA | Astro, React, TS |
 | **[RecruitSecure AI](https://recruitsecureai.com)** | Semantic candidate search with local, private AI | Next.js, Transformers.js, pgvector |
 | **[Cherry TV](https://albertoguindaportfolio.vercel.app/projects/cherry-tv)** | Android app · on-device ML recommender, native Kotlin modules | React Native, Kotlin |
-| **[xdata-bim · Pulso](https://albertoguindaportfolio.vercel.app/projects/xdata-bim)** (OFITECO) | Digital Twin + structural-health monitoring, in production | Svelte 5, FastAPI, Three.js |
 
 ---
 
