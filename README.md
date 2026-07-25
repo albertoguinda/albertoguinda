@@ -22,7 +22,7 @@
 - 🧩 Rare niche: real-time industrial IoT, 3D web (Three.js / CesiumJS) and structural-health monitoring (operational modal analysis).
 - 🎓 **12 Anthropic Academy certifications** (Claude Code, MCP, agents) · Master's in Digital Transformation & IoT.
 
-📄 CV (ES/EN) and full case studies → **[albertoguindaportfolio.vercel.app](https://albertoguindaportfolio.vercel.app)**
+📄 CV (ES/EN) and full case studies → **[albertoguinda.com](https://albertoguinda.com)**
 
 ---
 
