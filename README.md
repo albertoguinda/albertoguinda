@@ -3,7 +3,7 @@
 # Alberto Guinda Sevilla
 ### AI Engineer · Full-Stack Developer · Claude Code · LLM Agents · Computer Vision
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://albertoguindaportfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://albertoguinda.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albertoguindasevilla/)
 [![DevFlow AI](https://img.shields.io/badge/DevFlow_AI-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devflowai.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertoguindasevilla@gmail.com)
@@ -18,9 +18,10 @@
 **AI Engineer and Full-Stack developer** who takes products from architecture to production on his own — and builds AI into the development cycle itself.
 
 - 🤖 I orchestrate **AI agents (Claude Code, MCP)** across the dev cycle and ship **LLM-powered** and **computer-vision** systems to production.
-- 🏗️ At **OFITECO (VINCI Group)** I build, single-handedly, **digital twins (BIM + GIS + IoT)** and a **YOLOv8** computer-vision pipeline that monitor critical infrastructure — dams, bridges and railways (ADIF).
+- 🏗️ At **OFITECO (VINCI Group)** I build, single-handedly, **digital twins (BIM + GIS + IoT)** and a **YOLOv8** computer-vision pipeline that monitor critical civil infrastructure.
+- 🚀 Outside work I ship my own products: **five live on the internet**, with their own domain, a real payment gateway and users.
 - 🧩 Rare niche: real-time industrial IoT, 3D web (Three.js / CesiumJS) and structural-health monitoring (operational modal analysis).
-- 🎓 **12 Anthropic Academy certifications** (Claude Code, MCP, agents) · Master's in Digital Transformation & IoT.
+- 🎓 **12 Anthropic Academy certifications** (Claude Code, MCP, agents) and **17 Google Cloud Skills Boost badges** (ADK agents track) · Master’s in Digital Transformation & IoT.
 
 📄 CV (ES/EN) and full case studies → **[albertoguinda.com](https://albertoguinda.com)**
 
@@ -33,6 +34,7 @@
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Anthropic API](https://img.shields.io/badge/Anthropic_API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-1f6feb?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG_·_Embeddings-555?style=for-the-badge)
 
@@ -48,6 +50,7 @@
 ![Svelte](https://img.shields.io/badge/Svelte_5-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
 **Backend & Data**
@@ -56,6 +59,8 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **IoT**
@@ -70,10 +75,13 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[DevFlow AI](https://devflowai.dev)** | Open-source suite of 20 developer tools with built-in AI (4 providers) · Lighthouse 100/100/100/100 | Next.js 16, React 19, TS |
-| **[Portfolio + AI terminal](https://albertoguindaportfolio.vercel.app)** | This site — RAG assistant (Claude) that answers as me, i18n ES/EN, WCAG AA | Astro, React, TS |
-| **[RecruitSecure AI](https://recruitsecureai.com)** | Semantic candidate search with local, private AI | Next.js, Transformers.js, pgvector |
-| **[Cherry TV](https://albertoguindaportfolio.vercel.app/projects/cherry-tv)** | Android app · on-device ML recommender, native Kotlin modules | React Native, Kotlin |
+| **Mirador** | AI-native home-buying copilot: a **LangGraph agent orchestrating 19 tools** with human-in-the-loop confirmation before any payment, over a transactional backend with no double-booking and Stripe reconciliation. 3D/BIM viewer with a first-person walkthrough over photorealistic Google 3D Tiles. | TypeScript, LangGraph.js, Hono, Postgres/Drizzle, react-three-fiber |
+| **[Cherry Appointments](https://cherryappointments.com)** | Multi-tenant booking SaaS: customers book by chatting with an AI agent on WhatsApp or Telegram; the business runs everything from one dashboard. | React 19, Vite, FastAPI, Postgres, Stripe |
+| **[DevFlow AI](https://devflowai.dev)** | Open-source suite of 20 developer tools with built-in AI (4 providers) · Lighthouse 100/100/100/100 · WCAG AAA | Next.js 16, React 19, TS |
+| **[RecruitSecure AI](https://recruitsecureai.com)** | Semantic CV search running **100% on-device** — zero external API calls, PII encrypted at rest | Next.js, Transformers.js, pgvector |
+| **[nurseAI](https://nurseai.dev)** | Android health tracker built for elderly users first: oversized keypad, one-tap printable report for their doctor, offline-first | Expo, React Native, Hono, SQLite |
+| **[Portfolio + AI terminal](https://albertoguinda.com)** | This site — RAG assistant that answers as me, i18n ES/EN, layered architecture, WCAG 2.2 AA enforced by a contrast gate | Astro 7, Preact, TS, Cloudflare |
+| **[Cherry TV](https://albertoguinda.com/projects/cherry-tv)** | Android app · on-device ML recommender, native Kotlin modules | React Native, Kotlin |
 
 ---
 
