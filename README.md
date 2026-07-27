@@ -73,15 +73,20 @@
 
 ### 📌 Featured Projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| **Mirador** | AI-native home-buying copilot: a **LangGraph agent orchestrating 19 tools** with human-in-the-loop confirmation before any payment, over a transactional backend with no double-booking and Stripe reconciliation. 3D/BIM viewer with a first-person walkthrough over photorealistic Google 3D Tiles. | TypeScript, LangGraph.js, Hono, Postgres/Drizzle, react-three-fiber |
-| **[Cherry Appointments](https://cherryappointments.com)** | Multi-tenant booking SaaS: customers book by chatting with an AI agent on WhatsApp or Telegram; the business runs everything from one dashboard. | React 19, Vite, FastAPI, Postgres, Stripe |
-| **[DevFlow AI](https://devflowai.dev)** | Open-source suite of 20 developer tools with built-in AI (4 providers) · Lighthouse 100/100/100/100 · WCAG AAA | Next.js 16, React 19, TS |
-| **[RecruitSecure AI](https://recruitsecureai.com)** | Semantic CV search running **100% on-device** — zero external API calls, PII encrypted at rest | Next.js, Transformers.js, pgvector |
-| **[nurseAI](https://nurseai.dev)** | Android health tracker built for elderly users first: oversized keypad, one-tap printable report for their doctor, offline-first | Expo, React Native, Hono, SQLite |
-| **[Portfolio + AI terminal](https://albertoguinda.com)** | This site — RAG assistant that answers as me, i18n ES/EN, layered architecture, WCAG 2.2 AA enforced by a contrast gate | Astro 7, Preact, TS, Cloudflare |
-| **[Cherry TV](https://albertoguinda.com/projects/cherry-tv)** | Android app · on-device ML recommender, native Kotlin modules | React Native, Kotlin |
+| Year | Project | What it is | Stack |
+|---|---|---|---|
+| ![2026](https://img.shields.io/badge/2026-1f2328?style=flat-square) | **Mirador** | AI-native home-buying copilot: a **LangGraph agent orchestrating 19 tools** with human-in-the-loop confirmation before any payment, over a transactional backend with no double-booking and Stripe reconciliation. 3D/BIM viewer with a first-person walkthrough over photorealistic Google 3D Tiles. | TypeScript, LangGraph.js, Hono, Postgres/Drizzle, react-three-fiber |
+| ![2026](https://img.shields.io/badge/2026-1f2328?style=flat-square) | **[Cherry Appointments](https://cherryappointments.com)** | Multi-tenant booking SaaS: customers book by chatting with an AI agent on WhatsApp or Telegram; the business runs everything from one dashboard. | React 19, Vite, FastAPI, Postgres, Stripe |
+| ![2026](https://img.shields.io/badge/2026-1f2328?style=flat-square) | **[DevFlow AI](https://devflowai.dev)** | Open-source suite of 20 developer tools with built-in AI (4 providers) · Lighthouse 100/100/100/100 · WCAG AAA | Next.js 16, React 19, TS |
+| ![2026](https://img.shields.io/badge/2026-1f2328?style=flat-square) | **[Portfolio + AI terminal](https://albertoguinda.com)** | RAG assistant that answers as me, i18n ES/EN, layered architecture, WCAG 2.2 AA enforced by a contrast gate | Astro 7, Preact, TS, Cloudflare |
+| ![2026](https://img.shields.io/badge/2026-1f2328?style=flat-square) | **[AstroTickets](https://astro-tickets.pages.dev/)** | Event management with Islands Architecture · Lighthouse 100/100/100/100 · 0 KB of JS on first load | Astro, TS, edge |
+| ![2025](https://img.shields.io/badge/2025-1f2328?style=flat-square) | **[RecruitSecure AI](https://recruitsecureai.com)** | Semantic CV search running **100% on-device** — zero external API calls, PII encrypted at rest | Next.js, Transformers.js, pgvector |
+| ![2025](https://img.shields.io/badge/2025-1f2328?style=flat-square) | **[nurseAI](https://nurseai.dev)** | Android health tracker built for elderly users first: oversized keypad, one-tap printable report for their doctor, offline-first | Expo, React Native, Hono, SQLite |
+| ![2025](https://img.shields.io/badge/2025-1f2328?style=flat-square) | **[Cherry TV](https://albertoguinda.com/projects/cherry-tv)** | Android app · on-device ML recommender, native Kotlin modules | React Native, Kotlin |
+| ![2025](https://img.shields.io/badge/2025-1f2328?style=flat-square) | **[TaskMind AI](https://taskmind-ai.vercel.app)** | Task manager that scores every task by urgency, sentiment and context with 3 Hugging Face models running locally | Django, Python, Clean Architecture |
+| ![2025](https://img.shields.io/badge/2025-1f2328?style=flat-square) | **[PlantsCare](https://plantscareweb.vercel.app)** | Master's thesis: agricultural IoT with computer vision (EfficientNet-B0) and a real-time dashboard | React, Node, InfluxDB, MQTT |
+| ![2025](https://img.shields.io/badge/2025-1f2328?style=flat-square) | **[BusAvanza](https://busavanza.vercel.app)** | 4th place at The Wave 2025 hackathon | JavaScript |
+| ![2024](https://img.shields.io/badge/2024-1f2328?style=flat-square) | **[PeluqueriApp](https://peluqueriapp.vercel.app)** | Full booking and management app for a hair salon — my first end-to-end product | Astro, TypeScript |
 
 ---
 
