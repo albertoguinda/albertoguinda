@@ -90,16 +90,20 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Activity
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albertoguinda&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albertoguinda&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=albertoguinda&theme=tokyonight&hide_border=true)
 
 </div>
+
+<!-- Retiradas las tarjetas de github-readme-stats (stats y top-langs): su
+     instancia publica gratuita responde DEPLOYMENT_PAUSED, asi que salian como
+     imagenes rotas. Ademas contaban estrellas y commits de repos PUBLICOS, y
+     como el trabajo fuerte de este perfil es privado, retrataban por debajo de
+     la realidad justo debajo de una tabla con 12 proyectos en produccion.
+     Para recuperarlas habria que auto-hospedar github-readme-stats. -->
 
 ---
 
